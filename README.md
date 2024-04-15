@@ -1,5 +1,7 @@
 # Exploring the Drivers of Modern Slavery
 
+Assignment 2 for the Analytics Practicum I Course of AUEB's MSc in Business Analytics.
+
 Even though slavery is illegal, forty million people are estimated to live under some form of modern slavery across the globe. These forms of modern slavery include a wide variety of practices such as forced labour, debt bondage, forced marriage, sexual exploitation, bonded labour, and human trafficking.
 
 Researchers have been trying to estimate the prevalence of modern slavery, as well as factors that can help with this prediction. Machine Learning techniques can help in this endeavour, as has been shown in the following publication:
